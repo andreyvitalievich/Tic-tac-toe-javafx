@@ -28,4 +28,5 @@ _Приклад виграшу Х або 0_
 
 1. Клонувати репозиторій:
 ```bash
-git clone https://github.com/ТвійНік/tic-tac-toe-javafx.git
+git clone https://github.com/andreyvitalievich/tic-tac-toe-javafx.git
+
